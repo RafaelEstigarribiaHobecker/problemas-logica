@@ -1,0 +1,1 @@
+Este repositorio contiene mi progreso y resoluciones de los desafíos planteados en el libro "Eloquent JavaScript" de Marijn Haverbeke. Mi enfoque no es solo resolver los problemas, sino aplicar principios de diseño de software, eficiencia en memoria y código limpio.
